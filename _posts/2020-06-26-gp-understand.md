@@ -1,10 +1,3 @@
----
-layout: post
-title: a post with math
-date: 2020-12-20 11:12:00-0400
-description: GP
----
-
 ### Disclaimer
 
 This blog post is forked from [GPSS 2019](http://gpss.cc/gpss19/) [Lab 1](https://nbviewer.jupyter.org/github/gpschool/labs/blob/2019/2019/.answers/lab_1.ipynb). This is produced only for educational purposes. All credit goes to the GPSS organisers. 
